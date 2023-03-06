@@ -14,6 +14,14 @@ export default function Home() {
             Kita contains Georgian German dictionaries and additional resources.
           </p>
         </article>
+       <footer class="mt-auto justify-center">
+          <address class="flex-col gap-2 items-center">
+            <a href="mailto:contact@kita.ge">contact@kita.ge</a>
+            <a href="https://matrix.to/#/@kita.ge:matrix.org">
+              @kita.ge:matrix.org
+            </a>
+          </address>
+        </footer>
       </main>
     </Layout>
   );
