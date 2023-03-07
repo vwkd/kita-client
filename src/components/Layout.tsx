@@ -30,7 +30,7 @@ function MyHead() {
 
 function Navigation() {
   return (
-    <nav class="border-b border-slate-300 dark:border-gray-700 text-slate-500 dark:text-gray-600">
+    <nav class="border-b border-slate-300 dark:border-gray-700 text-slate-500 dark:text-gray-500">
       <ul class="flex-1 px-2 py-2 gap-3 justify-around">
         <li class="py-2 font-bold">
           <a href="//verbs.kita.ge/" class="cursor-pointer">Verbs</a>
